@@ -25,7 +25,7 @@ The dataset is available at: "https://www.kaggle.com/datasets/mariaherrerot/apto
 
 ## Methodology
 
-A pretrained model is loaded from Pyrtorch and the head is redefined to contain a select number of classes. 
+A pretrained model is loaded from Pytorch and the head is redefined to contain a select number of classes. 
 
 After specifying hyperparameters, training begins. Images are preprocessed using resizing, augmentation, green channel enhancement, and normalization.
 
