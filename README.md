@@ -11,9 +11,9 @@ This is where deep learning comes into play. Modern DL algorithms can be finetun
 
 During the course of the fyp, 4 algorithms were finetuned for DR detection and grading.
 
-This repo includes code used to finetune and thoroughly evaluate ConvNeXt Tiny, which was the best performing algorithm. Codes used for binary as well as multiclass classification are included.
+This repo includes code used to finetune and thoroughly evaluate ConvNeXt Tiny, which was the best performing algorithm. Codes used for binary as well as multiclass classification are provided.
 
-In addition the repo also includes the full fyp report for those interested in further reading.
+In addition, the repo also includes the full report for those interested in further reading. The accompanying project report was co-authored by Abdulrahman Kadhim and Ibrahim Alkhalil as part of a Bachelor’s Final Year Project. The report is shared for academic reference only.
 
 ## Dataset
 
